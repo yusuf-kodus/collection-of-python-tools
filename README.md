@@ -7,7 +7,7 @@ Collection of various Python tools for different purposes.
 ### 🎮 Gaming & Automation
 - **`roblox_tool.py`** - Roblox-related functions and automation
 - **`autoclicker.py`** - Automatic mouse clicker with configurable intervals
-- **`minecraft_world_downloader.py`** - Minecraft Bedrock world downloader (authentication required)
+- **`minecraft_world_downloader.py`** - Minecraft Bedrock world downloader
 
 ### 🌐 Web & Online
 - **`website_tool.py`** - Website-related tools and functions
